@@ -1,13 +1,14 @@
 ## Overview
-
-_Software Architect <br>
+### Current Roles
+Software Architect <br>
 Valeo Expert <br>
 Valeo CDA Trainer for C++, TDD and Clean Code <br>
-Project Technical Lead <br><br>
-based in Steinbach am Wald, Germany_ <br>
+Project Technical Lead 
 
-This is an overview of my CV. For a detailed version please contact me.
+### Location
+Steinbach am Wald, Germany
 
+### Contact
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
 <!--
@@ -20,13 +21,13 @@ tbd
 ## Project List
 
 **Project Technical Lead** @ [Valeo](https://www.valeo.com) _(Apr 2020 - Present)_ <br>
-Founded Project [KI Datatooling](https://www.ki-datatooling.de)
+in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
 - Inhouse project lead (across subprojects) 
 <br><br>
 
 **Software Architect for Visibility Domain** @ [Valeo](https://www.valeo.com) _(Jan 2017 - Dec 2020)_ <br>
-Scala2 Project for Daimler AG (S-Class 2020)
+in Scala2 Project for Daimler AG \(S-Class 2020\)
 
 - Resonsible for architecture and design of the embedded software modules
 - Definition of external interfaces
@@ -41,9 +42,9 @@ Scala2 Project for Daimler AG (S-Class 2020)
 - System/Architecture Modeling using UML
 - Coordinating work with other SW-Architects, System Architects, Function Owners and Testing Teams on an international level
 
-__Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 (Fusa), Continuous Integration 
+__Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Continuous Integration 
 <br>
-__Technologies & Tools:__ C++ (gcc, linaro, Greenhills GHS, Visual C++), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
+__Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
 
 
 ## 🏆 Accomplishments
@@ -58,4 +59,4 @@ todo
 tbd
 
 ## Acknowledgements
-Thanks to Carolyn Stransky (https://carolstran.github.io/cv/) for the idea to this CV
+Thanks to [Carolyn Stransky](https://carolstran.github.io/cv) for the idea to this CV
