@@ -1,14 +1,16 @@
 ### Overview
-##### Current Roles
+I've started programming more than 25 years ago and do professional software development since 2008.
+
+**Current Roles** <br>
 Software Architect <br>
 Valeo Expert <br>
 Valeo CDA Trainer for C++, TDD and Clean Code <br>
-Project Technical Lead 
+Project Technical Lead <br>
 
-##### Location
+**Location** <br>
 Steinbach am Wald, Germany
 
-##### Contact
+**Contact** <br>
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
 <!--
@@ -19,16 +21,15 @@ Steinbach am Wald, Germany
 tbd
 
 ### Project List
+For the last 5 years, complete list on request.
 
-#### Project Technical Lead (Apr 2020 - Present)
-@ [Valeo Schalter & Sensoren](https://www.valeo.com) <br>
+**Project Technical Lead** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
 in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
 - Inhouse project lead (across subprojects)
 <br><br>
 
-#### Software Architect for Visibility Domain (Jan 2017 - Dec 2020)
-@ [Valeo Schalter & Sensoren](https://www.valeo.com) <br>
+**Software Architect for Visibility Estimation Domain** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2017 - 12/2020)_ <br>
 in Scala2 Project for Daimler AG \(S-Class 2020\)
 
 - Resonsible for architecture and design of the embedded software modules
@@ -48,17 +49,24 @@ __Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Conti
 <br>
 __Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
 
+**CDA Trainer** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(08/2018 - Now)_ <br>
+bla bla
 
-## 🏆 Accomplishments
+**Redesign and Refactoring of the Receiver Unit Software** @ [Fraunhofer IIS]() _(07/2016 - 12/2016)_ <br>
+in Jogmo Project for realtime icehockey player tracking
+
+
+### 🏆 Accomplishments
 todo
 
-## 💬 Languages
+### 💬 Languages
 **German**: Native <br>
 **English**: Fluent
 <br><br>
 
-## 🎓 Education
+### 🎓 Education
 tbd
 
-## Acknowledgements
-Thanks to [Carolyn Stransky](https://carolstran.github.io/cv) for the idea to this CV
+<br> <br>
+_Acknowledgements <br>
+Thanks to [Carolyn Stransky](https://carolstran.github.io/cv) for the idea to this CV_
