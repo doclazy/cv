@@ -1,14 +1,19 @@
-# Marcel Matz
+## Overview
 
-_Software architect, Valeo CDA Trainer, Valeo Expert for C++/TDD/Clean Code and project technical lead <br>
+_Software Architect, Valeo CDA Trainer, Valeo Expert for C++/TDD/Clean Code <br>
+Project Technical Lead <br><br>
 based in Steinbach am Wald, Germany_ <br>
 
-This CV is an overview of my experience. For a detailed version please contact me. 
+This github based CV is an overview of my work experience. For a detailed version please contact me. 
 
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
 ## 💻 Technical Experience
 This is a large section
+
+**Project Technical Lead** @ [Valeo](https://www.valeo.com) _(Apr 2020 - Present)_ <br>
+For project [KI Datatooling](https://www.ki-datatooling.de) responsible for TP3 and inhouse work. 
+<br><br>
 
 
 ## 🏆 Accomplishments
