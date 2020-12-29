@@ -1,32 +1,34 @@
-## Overview
-### Current Roles
+### Overview
+##### Current Roles
 Software Architect <br>
 Valeo Expert <br>
 Valeo CDA Trainer for C++, TDD and Clean Code <br>
 Project Technical Lead 
 
-### Location
+##### Location
 Steinbach am Wald, Germany
 
-### Contact
+##### Contact
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
 <!--
 ## New Opportunity
 **Status** Searching for a new 
 -->
-## 💻 Technical Skills
+### 💻 Technical Skills
 tbd
 
-## Project List
+### Project List
 
-**Project Technical Lead** @ [Valeo](https://www.valeo.com) _(Apr 2020 - Present)_ <br>
+#### Project Technical Lead (Apr 2020 - Present)
+@ [Valeo Schalter & Sensoren](https://www.valeo.com) <br>
 in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
-- Inhouse project lead (across subprojects) 
+- Inhouse project lead (across subprojects)
 <br><br>
 
-**Software Architect for Visibility Domain** @ [Valeo](https://www.valeo.com) _(Jan 2017 - Dec 2020)_ <br>
+#### Software Architect for Visibility Domain (Jan 2017 - Dec 2020)
+@ [Valeo Schalter & Sensoren](https://www.valeo.com) <br>
 in Scala2 Project for Daimler AG \(S-Class 2020\)
 
 - Resonsible for architecture and design of the embedded software modules
