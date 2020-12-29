@@ -25,7 +25,9 @@ Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Inhouse project lead (across subprojects) 
 <br><br>
 
-**Software Architect or Visibility Domain in Scala2 Project** @ [Valeo](https://www.valeo.com) _(Jan 2017 - Dec 2020)_ <br>
+**Software Architect for Visibility Domain** @ [Valeo](https://www.valeo.com) _(Jan 2017 - Dec 2020)_ <br>
+Scala2 Project for Daimler AG (S-Class 2020)
+
 - Resonsible for architecture and design of the embedded software modules
 - Definition of external interfaces
 - Design, Implementation and Documentation of Proof of Concepts and/or Prototypes
@@ -57,4 +59,4 @@ todo
 
 ## Acknowledgements
 <br>
-Thanks to [Carolyn Stransky|https://carolstran.github.io/cv/] for the idea to this CV
+Thanks to [Carolyn Stransky](https://carolstran.github.io/cv/) for the idea to this CV
