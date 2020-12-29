@@ -24,13 +24,13 @@ tbd
 Overview of recent 5 years. Details on request.
 
 **Project Technical Lead** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
-in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
+Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
 - Inhouse project lead (across subprojects)
 <br><br>
 
 **Software Architect for Visibility Estimation Domain** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2017 - 12/2020)_ <br>
-in Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
+Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
 
 - Resonsible for architecture and design of the embedded software modules
 - Definition of external interfaces
@@ -57,7 +57,7 @@ Topics:
 - __Methods:__ : Test driven Development, Clean Code, MISRA C++ 2008, Safe Embedded C++
 
 **Redesign and Refactoring of the Receiver Unit Software** @ [Fraunhofer IIS](https://www.iis.fraunhofer.de) _(08/2016 - 12/2016)_ <br>
-in Jogmo Project \(Realtime icehockey player tracking\)
+Jogmo Project \(Realtime icehockey player tracking\)
 - Analysis of actual situation, especially data flow
 - Design of a dataflow driven and component based architecture using SOLID principles
 - Implementation of the new designed components using pair programming and/or test driven development
@@ -66,12 +66,33 @@ in Jogmo Project \(Realtime icehockey player tracking\)
 - __Technologies & Tools:__ Debian Jessie, UML, C++ (gcc, c++11),  scons, boost, google-test, googlemock, Eclipse CDT
 
 **Lead Developer for CPS Component** @ [Fraunhofer IIS](https://www.iis.fraunhofer.de/) _(04/2016 - 7/2016)_ <br>
-in Jogmo Project \(Realtime icehockey player tracking\)
+Jogmo Project \(Realtime icehockey player tracking\)
+
 - __Methods:__ Bla
 - __Technologies & Tools:__ Blup
 
+**Senior Developer for Smartest SOC Software** @ [Advantest Europe GmbH]() _(06/2011 - 3/2016)_ <br>
+Pattern team \(propriatary ATE software for V93000 test systems\)
+- Design and Implementation of components for a testing platform in C/C++ 
+- Software Architecture of the testing system
+- Integration and testing of new components into existing architecture
+- UML based system modelling
+- Object oriented SW Development
+- Development of the Pattern Debug Tool (PDT)
+  - Test Program translation
+  - Result Mapping
+  - Action handling
+- Compiler Construction
+- Result reconstruction
+- ALDC Compression
+- Coordination and Negotiation with international teams(Japan, Shanghai, USA)
+- __Methods:__ Scrum, OOA/OOD
+- __Technologies & Tools:__ RedHat Enterprise Linux 5/7, C/C++ (gcc/g++), STL, boost, Ruby, Java, UNO, Valgrind Suite, Eclipse CDT, Rational Clearcase, git, Rational Software Architect, UML, Coverity, Atlassian Suite (JIRA, Crucible, Stash)
+
+<!--
 ### 🏆 Accomplishments 
 - __2019/01__ Promotion to Valeo Expert
+-->
 
 ### 💬 Languages
 **German**: Native <br>
