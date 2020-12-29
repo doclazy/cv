@@ -13,10 +13,6 @@ Steinbach am Wald, Germany
 **Contact** <br>
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
-<!--
-## New Opportunity
-**Status** Searching for a new 
--->
 ### 💻 Technical Skills
 tbd
 
@@ -50,16 +46,16 @@ Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
 - __Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Continuous Integration 
 - __Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
 
-**CDA Trainer for internal CDA academy** <br>
+**Trainer for Valeo CDA academy** <br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(09/2017 - Now)_ <br>
-Conception of a C++ Training
-Topics:
+Conception of a C++ Training <br>
+Topics: <br>
 - C++ usage in restrictive and realtime environments
 - Test Driven Development, Clean Code & Design Patterns
 - C++ idioms and pitfalls 
 - __Methods:__ : Test driven Development, Clean Code, MISRA C++ 2008, Safe Embedded C++
 
-**Lead Developer for Redesign and Refactoring of the Receiver Unit Software** <br>
+**Lead Developer for Redesign/Refactoring of the Receiver Unit** <br>
 [Fraunhofer IIS](https://www.iis.fraunhofer.de) _(08/2016 - 12/2016)_ <br>
 Jogmo Project \(Realtime icehockey player tracking\)
 - Analysis of actual situation, especially data flow
