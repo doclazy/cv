@@ -21,7 +21,7 @@ Steinbach am Wald, Germany
 tbd
 
 ### Project List
-For the last 5 years, complete list on request.
+Overview of recent 5 years. Details on request.
 
 **Project Technical Lead** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
 in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
@@ -30,7 +30,7 @@ in Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 <br><br>
 
 **Software Architect for Visibility Estimation Domain** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2017 - 12/2020)_ <br>
-in Scala2 Project for Daimler AG \(S-Class 2020\)
+in Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
 
 - Resonsible for architecture and design of the embedded software modules
 - Definition of external interfaces
@@ -42,22 +42,36 @@ in Scala2 Project for Daimler AG \(S-Class 2020\)
 - Coordination of ASpice, Ensuring Traceability
 - Requirement Engineering and Reviews
 - Establishing Measurements for enhancing code quality, e.g. Klocwork, Unit Testing, Code Coverage
+- Improving the development infrastructure, e.g. TDD framework, Documentation framework
 - System/Architecture Modeling using UML
 - Coordinating work with other SW-Architects, System Architects, Function Owners and Testing Teams on an international level
+- __Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Continuous Integration 
+- __Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
 
-__Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Continuous Integration 
-<br>
-__Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
+**CDA Trainer for internal CDA academy** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(09/2017 - Now)_ <br>
+Conception of a C++ Training
+Topics:
+- C++ usage in restrictive and realtime environments
+- Test Driven Development, Clean Code & Design Patterns
+- C++ idioms and pitfalls 
+- __Methods:__ : Test driven Development, Clean Code, MISRA C++ 2008, Safe Embedded C++
 
-**CDA Trainer** @ [Valeo Schalter & Sensoren](https://www.valeo.com) _(08/2018 - Now)_ <br>
-bla bla
+**Redesign and Refactoring of the Receiver Unit Software** @ [Fraunhofer IIS](https://www.iis.fraunhofer.de) _(08/2016 - 12/2016)_ <br>
+in Jogmo Project \(Realtime icehockey player tracking\)
+- Analysis of actual situation, especially data flow
+- Design of a dataflow driven and component based architecture using SOLID principles
+- Implementation of the new designed components using pair programming and/or test driven development
+- planning and execution of integration tests
+- __Methods:__ OOA/OOD, Test driven Development, Pair programming
+- __Technologies & Tools:__ Debian Jessie, UML, C++ (gcc, c++11),  scons, boost, google-test, googlemock, Eclipse CDT
 
-**Redesign and Refactoring of the Receiver Unit Software** @ [Fraunhofer IIS]() _(07/2016 - 12/2016)_ <br>
-in Jogmo Project for realtime icehockey player tracking
+**Lead Developer for CPS Component** @ [Fraunhofer IIS](https://www.iis.fraunhofer.de/) _(04/2016 - 7/2016)_ <br>
+in Jogmo Project \(Realtime icehockey player tracking\)
+- __Methods:__ Bla
+- __Technologies & Tools:__ Blup
 
-
-### 🏆 Accomplishments
-todo
+### 🏆 Accomplishments 
+- __2019/01__ Promotion to Valeo Expert
 
 ### 💬 Languages
 **German**: Native <br>
