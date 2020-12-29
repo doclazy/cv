@@ -55,9 +55,7 @@ todo
 <br><br>
 
 ## 🎓 Education
-
+tbd
 
 ## Acknowledgements
-<br>
-Thanks to [Carolyn Stransky](https://carolstran.github.io/cv/) for the idea to this CV <br>
-Test Link [Valeo](https://www.valeo.com)
+Thanks to Carolyn Stransky (https://carolstran.github.io/cv/) for the idea to this CV
