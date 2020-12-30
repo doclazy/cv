@@ -1,4 +1,4 @@
-### Overview
+## Overview
 I've started programming more than 25 years ago and do professional software development since 2008.
 
 **Current Roles** <br>
@@ -10,26 +10,50 @@ Project Technical Lead <br>
 **Location** <br>
 Steinbach am Wald, Germany
 
+**Accomplishments** 🏆 <br>
+- __2019/01__ Promotion to Valeo Expert <br>
+
 **Contact** <br>
 [Email](mailto:mail@marcelmatz.de) / [LinkedIn](https://www.linkedin.com/in/marcel-matz-swa) / [Xing](www.xing.com/profile/Marcel_Matz)
 
-### 💻 Technical Skills
-tbd
-
-### Project List
-Overview of recent 5 years. Details on request.
+## 💻 Technical Skills
+- **Operating Systems** 
+  - Linux: Debian/Ubuntu, Fedora, SLES, RHEL, Raspbian, OpenWRT
+  - Windows: 9x - 10
+  - Mac: OS X 10.4 - 11.1
+  - Other: Greenhills GHS (RTOS), 
+- **Architectures** x86,ARM,MIPS,PowerPC
+- **SW Development**
+  - C/C++, QTest, STL, boost, UNO
+  - bash, Python, batch, groovy
+  - Markdown, Doxygen
+  - Git, Subversion, Rational Clearcase
+  - Java, JUnit, Spring, Hibernate, Maven
+  - JSON, XML\/XML-Schema, SOAP, WSDL, REST
+  - OOA/OOD, UML, Enterprise Architect, Rational SW Architect, PlantUML
+  - Requirement Enineering, Rational Doors
+  - Continous Integration, Jenkins, Gerrit
+- **Databases** MySQL, PostgrSQL, DB2
+- **Domain specfic**
+  - Point Cloud Processing, Laserscanner/Lidar
+  - ASpice, ISO 26262 \(ASIL, FuSa\)
+  - SOC Testing: V93000
+  - Office: MS Office, Open Office
+  - Benchmarks: e.q. CPU2000, HPCC, HPL, IMB
+  - A/V Formats: MP3, FLV, MP4
+  
+## Project List
+Details of recent 5 years. Full CV on request.
 
 **Project Technical Lead**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
 Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
 - Inhouse project lead (across subprojects)
-<br><br>
 
 **Software Architect for Visibility Estimation Domain** <br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2017 - 12/2020)_ <br>
 Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
-
 - Resonsible for architecture and design of the embedded software modules
 - Definition of external interfaces
 - Design, Implementation and Documentation of Proof of Concepts and/or Prototypes
@@ -48,7 +72,7 @@ Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
 
 **Trainer for Valeo CDA academy** <br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(09/2017 - Now)_ <br>
-Conception of a C++ Training <br>
+Conception and regular conduction of a C++ training session<br>
 Topics: <br>
 - C++ usage in restrictive and realtime environments
 - Test Driven Development, Clean Code & Design Patterns
@@ -62,15 +86,19 @@ Jogmo Project \(Realtime icehockey player tracking\)
 - Design of a dataflow driven and component based architecture using SOLID principles
 - Implementation of the new designed components using pair programming and/or test driven development
 - planning and execution of integration tests
-- __Methods:__ OOA/OOD, Test driven Development, Pair programming
+- __Methods:__ OOA/OOD, Kanban, Test driven Development, Pair programming
 - __Technologies & Tools:__ Debian Jessie, UML, C++ (gcc, c++11),  scons, boost, google-test, googlemock, Eclipse CDT
 
 **Lead Developer for CPS Component** <br>
 [Fraunhofer IIS](https://www.iis.fraunhofer.de/) _(04/2016 - 7/2016)_ <br>
 Jogmo Project \(Realtime icehockey player tracking\)
-
-- __Methods:__ Bla
-- __Technologies & Tools:__ Blup
+- Requirement Engineering
+- API Design for IPad and Server Backend Communication
+- Design/Implementation
+- Specification and Customization of OpenWRT for dedicated purpose
+- Specification of Integration Tests
+- __Methods:__ OOA/OOD, Test driven Development
+- __Technologies & Tools:__ OpenWRT, Debian Wheezy, UML, ANSI C(gcc),  FTDI (libftdi), Websockets (libwebsockets), Protobuf (protobuf-c), Eclipse CDT
 
 **Senior Developer for Smartest SOC Software** <br>
 [Advantest Europe GmbH]() _(06/2011 - 3/2016)_ <br>
@@ -83,26 +111,25 @@ Pattern team \(propriatary ATE software for V93000 test systems\)
 - Development of the Pattern Debug Tool (PDT)
   - Test Program translation
   - Result Mapping
-  - Action handling
+  - Measurement Action Handling
 - Compiler Construction
-- Result reconstruction
+- Result Reconstruction and Backmapping
 - ALDC Compression
 - Coordination and Negotiation with international teams(Japan, Shanghai, USA)
 - __Methods:__ Scrum, OOA/OOD
 - __Technologies & Tools:__ RedHat Enterprise Linux 5/7, C/C++ (gcc/g++), STL, boost, Ruby, Java, UNO, Valgrind Suite, Eclipse CDT, Rational Clearcase, git, Rational Software Architect, UML, Coverity, Atlassian Suite (JIRA, Crucible, Stash)
 
-<!--
-### 🏆 Accomplishments 
-- __2019/01__ Promotion to Valeo Expert
--->
+## 📌 On The Side
+**Webmaster/Site Owner of steinbachblick.de** <br>
+[Vaction Home Steinbachblick](https://steinbachblick.de) _(06/2019 - Now)_ <br>
+- Website Setup, Content creation, Advertising/SEO, Maintenance
 
-### 💬 Languages
+## 💬 Languages
 **German**: Native <br>
 **English**: Fluent
-<br><br>
 
-### 🎓 Education
-tbd
+## 🎓 Education
+
 
 <br> <br>
 _Acknowledgements <br>
