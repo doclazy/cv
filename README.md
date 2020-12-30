@@ -1,5 +1,5 @@
 ## Overview
-I've started programming more than 25 years ago and do professional software development since 2008.
+I've started programming more than 25 years ago and i work as a professional software developer since 2008.
 
 **Current Roles** <br>
 Software Architect <br>
@@ -21,22 +21,28 @@ Steinbach am Wald, Germany
   - Linux: Debian/Ubuntu, Fedora, SLES, RHEL, Raspbian, OpenWRT
   - Windows: 9x - 10
   - Mac: OS X 10.4 - 11.1
-  - Other: Greenhills GHS (RTOS), 
-- **Architectures** x86,ARM,MIPS,PowerPC
+  - Other: Greenhills Integrity (RTOS) 
+- **Architectures** 
+  - x86, ARM, MIPS, PowerPC
 - **SW Development**
   - C/C++, QTest, STL, boost, UNO
-  - bash, Python, batch, groovy
+  - Scripting: bash, Python, batch, groovy
+  - CMake, Make, Greenhills 
   - Markdown, Doxygen
   - Git, Subversion, Rational Clearcase
   - Java, JUnit, Spring, Hibernate, Maven
-  - JSON, XML\/XML-Schema, SOAP, WSDL, REST
+  - JSON, XML\/XML-Schema, SOAP, WSDL, REST, Protobuf
   - OOA/OOD, UML, Enterprise Architect, Rational SW Architect, PlantUML
   - Requirement Enineering, Rational Doors
   - Continous Integration, Jenkins, Gerrit
-- **Databases** MySQL, PostgrSQL, DB2
-- **Domain specfic**
+- **Databases** 
+  - MySQL, PostgrSQL, DB2
+- **Other**
   - Point Cloud Processing, Laserscanner/Lidar
   - ASpice, ISO 26262 \(ASIL, FuSa\)
+  - Public Key Infrastructures, OpenSSL, SSH
+  - Network Protocols, e.g. HTTP, Websockets, TCP/UDP
+  - General Web Knowledge, e.g. HTML, CSS
   - SOC Testing: V93000
   - Office: MS Office, Open Office
   - Benchmarks: e.q. CPU2000, HPCC, HPL, IMB
@@ -125,11 +131,11 @@ Pattern team \(propriatary ATE software for V93000 test systems\)
 - Website Setup, Content creation, Advertising/SEO, Maintenance
 
 ## 💬 Languages
-**German**: Native <br>
-**English**: Fluent
+- **German**: Native
+- **English**: Fluent
 
 ## 🎓 Education
-
+- **08/2008** Diplom Informatiker, equivalent to Master of Computer Science, @ [TU Ilmenau](https://tu-ilmenau.de)
 
 <br> <br>
 _Acknowledgements <br>
