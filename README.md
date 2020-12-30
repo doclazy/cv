@@ -1,5 +1,5 @@
 ## Overview
-I've started programming more than 25 years ago and i work as a professional software developer since 2008.
+I started programming more than 25 years ago and i've been working as a professional software developer since 2008.
 
 **Current Roles** <br>
 Software Architect <br>
@@ -82,8 +82,8 @@ Conception and regular conduction of a C++ training session<br>
 Topics: <br>
 - C++ usage in restrictive and realtime environments
 - Test Driven Development, Clean Code & Design Patterns
+- MISRA C++ 2008
 - C++ idioms and pitfalls 
-- __Methods:__ : Test driven Development, Clean Code, MISRA C++ 2008, Safe Embedded C++
 
 **Lead Developer for Redesign/Refactoring of the Receiver Unit** <br>
 [Fraunhofer IIS](https://www.iis.fraunhofer.de) _(08/2016 - 12/2016)_ <br>
