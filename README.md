@@ -36,7 +36,7 @@ Steinbach am Wald, Germany
   - Requirement Enineering, Rational Doors
   - Continous Integration, Jenkins, Gerrit
 - **Databases** 
-  - MySQL, PostgrSQL, DB2
+  - MySQL, PostgreSQL, DB2
 - **Other**
   - Point Cloud Processing, Laserscanner/Lidar
   - ASpice, ISO 26262 \(ASIL, FuSa\)
@@ -127,7 +127,7 @@ Pattern team \(propriatary ATE software for V93000 test systems\)
 
 ## 📌 On The Side
 **Webmaster/Site Owner of steinbachblick.de** <br>
-[Vaction Home Steinbachblick](https://steinbachblick.de) _(06/2019 - Now)_ <br>
+[Vacation Home Steinbachblick](https://steinbachblick.de) _(06/2019 - Now)_ <br>
 - Website Setup, Content creation, Advertising/SEO, Maintenance
 
 ## 💬 Languages
