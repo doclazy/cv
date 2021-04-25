@@ -51,11 +51,20 @@ Steinbach am Wald, Germany
 ## Project List
 Details of recent 5 years. Full CV on request.
 
+**Software Architect in the Data Recording and Storage Team**
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - Now)_ <br>
+- Specification and Development of the record & storage infrastructure and toolchain
+- Definition and Development of external SW interfaces
+- Design, Implementation and Documentation of proof of concepts
+- Improving the development process based on agile methodologies
+
 **Project Technical Lead**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
 Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead for TP3 
 - Inhouse project lead (across subprojects)
+- Lossless realtime compression of lidar data
+- Automatic annotation of recordings based on lidar pointclouds
 
 **Software Architect for Visibility Estimation Domain** <br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2017 - 12/2020)_ <br>
