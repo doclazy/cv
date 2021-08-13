@@ -55,7 +55,7 @@ Steinbach am Wald, Germany
 ## Project List
 Overview of recent 10 years. Full CV on request.
 
-**Architect of Serving Infrastructure for Data Driven Algorithms and ML Applications**
+**Architect of Serving Infrastructure for Data Driven Algorithms and ML Applications**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - Now)_ <br>
 - Specification and development of the recording & storage infrastructure
 - Responsibility for architecture and design as well as for the tools and libraries
