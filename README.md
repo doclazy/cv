@@ -27,14 +27,18 @@ Steinbach am Wald, Germany
 - **SW Development**
   - C/C++, QTest, STL, boost, UNO
   - Scripting: bash, Python, batch, groovy
+  - Software Craftmanship, Clean Code, Test Driven Development
   - CMake, Make, Greenhills 
   - Markdown, Doxygen
   - Git, Subversion, Rational Clearcase
   - Java, JUnit, Spring, Hibernate, Maven
   - JSON, XML\/XML-Schema, SOAP, WSDL, REST, Protobuf
-  - OOA/OOD, UML, Enterprise Architect, Rational SW Architect, PlantUML
-  - Requirement Enineering, Rational Doors
   - Continous Integration, Jenkins, Gerrit
+- **SW Architecture**
+  - RTOS, Microservices, SOA
+  - OOA/OOD, Domain Driven Design, UML, Enterprise Architect, Rational SW Architect, PlantUML
+  - Requirement Enineering, Rational Doors
+  - Container, Docker
 - **Databases** 
   - MySQL, PostgreSQL, DB2
 - **Other**
@@ -49,20 +53,23 @@ Steinbach am Wald, Germany
   - A/V Formats: MP3, FLV, MP4
   
 ## Project List
-Details of recent 5 years. Full CV on request.
+Overview of recent 10 years. Full CV on request.
 
-**Software Architect in the Data Recording and Storage Team**
+**Architect of Serving Infrastructure for Data Driven Algorithms and ML Applications**
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - Now)_ <br>
-- Specification and Development of the record & storage infrastructure and toolchain
-- Definition and Development of external SW interfaces
-- Design, Implementation and Documentation of proof of concepts
+- Specification and development of the recording & storage infrastructure
+- Responsibility for architecture and design as well as for the tools and libraries
+- Definition and implementation of the external software interfaces
+- Creation and documentation of proof of concepts and component templates
+- Architecture and maintenance of the docker based infrastructure
+- Design / Code reviews
+- UML-based system modeling
 - Improving the development process based on agile methodologies
 
 **Project Technical Lead**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
 Founded Project [KI Datatooling](https://www.ki-datatooling.de)
-- Subproject lead for TP3 
-- Inhouse project lead (across subprojects)
+- Subproject lead of TP3 - Collection and Refinement of Real Data
 - Lossless realtime compression of lidar data
 - Automatic annotation of recordings based on lidar pointclouds
 
