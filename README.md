@@ -2,10 +2,9 @@
 I started programming more than 25 years ago and i've been working as a professional software developer since 2008.
 
 **Current Roles** <br>
-Software Architect <br>
+System & Software Architect <br>
 Valeo Expert <br>
 Valeo CDA Trainer for C++, TDD and Clean Code <br>
-Project Technical Lead <br>
 
 **Location** <br>
 Steinbach am Wald, Germany
@@ -21,7 +20,7 @@ Steinbach am Wald, Germany
   - Linux: Debian/Ubuntu, Fedora, SLES, RHEL, Raspbian, OpenWRT
   - Windows: 9x - 10
   - Mac: OS X 10.4 - 11.1
-  - Other: Greenhills Integrity (RTOS) 
+  - Other: QNX, Greenhills Integrity (RTOS) 
 - **Architectures** 
   - x86, ARM, MIPS, PowerPC
 - **SW Development**
@@ -55,8 +54,19 @@ Steinbach am Wald, Germany
 ## Project List
 Overview of recent 10 years. Full CV on request.
 
+**Architect for Automated Valet Parking (AVP) used in factory automatization**<br>
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(03/2023 - 04/2024)_ <br>
+- Specification and development of 
+- Responsibility for architecture and design as well as for the tools and libraries
+- Definition and implementation of the external software interfaces
+- Creation and documentation of proof of concepts and component templates
+- Architecture and maintenance of the docker based infrastructure
+- Design / Code reviews
+- UML-based system modeling
+- Improving the development process based on agile methodologies
+
 **Architect of Serving Infrastructure for Data Driven Algorithms and ML Applications**<br>
-[Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - Now)_ <br>
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - 02/2023)_ <br>
 - Specification and development of the recording & storage infrastructure
 - Responsibility for architecture and design as well as for the tools and libraries
 - Definition and implementation of the external software interfaces
@@ -67,7 +77,7 @@ Overview of recent 10 years. Full CV on request.
 - Improving the development process based on agile methodologies
 
 **Project Technical Lead**<br>
-[Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - Now)_ <br>
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(04/2020 - 12/2023)_ <br>
 Founded Project [KI Datatooling](https://www.ki-datatooling.de)
 - Subproject lead of TP3 - Collection and Refinement of Real Data
 - Lossless realtime compression of lidar data
