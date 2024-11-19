@@ -9,7 +9,7 @@ Valeo Academy Trainer for C++, TDD and Clean Code <br>
 **Location** <br>
 Steinbach am Wald, Germany
 
-**Accomplishments** 🏆 <br>
+**Awards** 🏆 <br>
 - __2019/01__ Promotion to Valeo Expert <br>
 
 **Contact** <br>
