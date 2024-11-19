@@ -4,7 +4,7 @@ I started programming more than 25 years ago and i've been working as a professi
 **Current Roles** <br>
 System & Software Architect <br>
 Valeo Expert <br>
-Valeo CDA Trainer for C++, TDD and Clean Code <br>
+Valeo Academy Trainer for C++, TDD and Clean Code <br>
 
 **Location** <br>
 Steinbach am Wald, Germany
@@ -24,7 +24,7 @@ Steinbach am Wald, Germany
 - **Architectures** 
   - x86, ARM, MIPS, PowerPC
 - **SW Development**
-  - C/C++, QTest, STL, boost, UNO
+  - C/C++, QTest, STL, boost, UNO, ROS2
   - Scripting: bash, Python, batch, groovy
   - Software Craftmanship, Clean Code, Test Driven Development
   - CMake, Make, Greenhills 
@@ -33,11 +33,12 @@ Steinbach am Wald, Germany
   - Java, JUnit, Spring, Hibernate, Maven
   - JSON, XML\/XML-Schema, SOAP, WSDL, REST, Protobuf
   - Continous Integration, Jenkins, Gerrit
-- **SW Architecture**
-  - RTOS, Microservices, SOA
+- **Sys & SW Architecture**
+  - RTOS, Microservices, SOA, ROS2
   - OOA/OOD, Domain Driven Design, UML, Enterprise Architect, Rational SW Architect, PlantUML
+  - SysML, Catia NoMagic
   - Requirement Enineering, Rational Doors
-  - Container, Docker
+  - Container, Docker, OpenShift
 - **Databases** 
   - MySQL, PostgreSQL, DB2
 - **Other**
@@ -54,16 +55,23 @@ Steinbach am Wald, Germany
 ## Project List
 Overview of recent 10 years. Full CV on request.
 
+**System Architect for a Domain Controller ECU for Parking**<br>
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(05/2024 - now)_ <br>
+- Development of the parking stack system architecture
+- Coordination of requirements and architecture with internal and external stakeholders
+- System modeling with SysML and UML
+- Creation of a concept for measuring and monitoring critical system resources
+
 **Architect for Automated Valet Parking (AVP) used in factory automatization**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(03/2023 - 04/2024)_ <br>
-- Specification and development of 
-- Responsibility for architecture and design as well as for the tools and libraries
-- Definition and implementation of the external software interfaces
-- Creation and documentation of proof of concepts and component templates
+- Specification of the API’s and partitioning of the microservices
+- Responsible for architecture and design of the used SW tools and libraries
+- Specification of the software interfaces
+- Creation and documentation of proof of concepts and reference implementations
+- Improvements of the development process based on agile and DevOps principles
 - Architecture and maintenance of the docker based infrastructure
 - Design / Code reviews
 - UML-based system modeling
-- Improving the development process based on agile methodologies
 
 **Architect of Serving Infrastructure for Data Driven Algorithms and ML Applications**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(01/2021 - 02/2023)_ <br>
