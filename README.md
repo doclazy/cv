@@ -64,6 +64,15 @@ Overview of recent 10 years. Full CV on request.
 - System modeling with SysML and UML
 - Creation of a concept for measuring and monitoring critical system resources
 
+**Trainer for Valeo CDA academy** <br>
+[Valeo Schalter & Sensoren](https://www.valeo.com) _(09/2017 - Now)_ <br>
+Conception and regular conduction of a C++ training session<br>
+Topics: <br>
+- C++ usage in restrictive and realtime environments
+- Test Driven Development, Clean Code & Design Patterns
+- MISRA C++ 2008, 2023
+- C++ idioms and pitfalls
+  
 **Architect for Automated Valet Parking (AVP) used in factory automatization**<br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(03/2023 - 04/2024)_ <br>
 - Specification of the API’s and partitioning of the microservices
@@ -111,15 +120,6 @@ Scala2 Project for Daimler AG \(Lidar/Laserscanner\)
 - Coordinating work with other SW-Architects, System Architects, Function Owners and Testing Teams on an international level
 - __Methods:__ OOA/OOD, Test Driven Development, ASpice, ISO 26262 \(Fusa\), Continuous Integration 
 - __Technologies & Tools:__ C++ \(gcc, linaro, Greenhills GHS, Visual C++\), git, QTest, Eclipse CDT, Python, ADTF, OpenCV, Teamforge, Gerrit, Jenkins, Point Cloud Processing, Rational Doors, Enterprise Architect, Markdown, Doxygen, PlantUML, CANoe, DTS Monaco
-
-**Trainer for Valeo CDA academy** <br>
-[Valeo Schalter & Sensoren](https://www.valeo.com) _(09/2017 - Now)_ <br>
-Conception and regular conduction of a C++ training session<br>
-Topics: <br>
-- C++ usage in restrictive and realtime environments
-- Test Driven Development, Clean Code & Design Patterns
-- MISRA C++ 2008
-- C++ idioms and pitfalls 
 
 **Lead Developer for Redesign/Refactoring of the Receiver Unit** <br>
 [Fraunhofer IIS](https://www.iis.fraunhofer.de) _(08/2016 - 12/2016)_ <br>
