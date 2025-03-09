@@ -42,13 +42,15 @@ Steinbach am Wald, Germany
   - SysML, Catia NoMagic
   - Requirement Enineering, Rational Doors
   - Container, Docker, OpenShift
+- **CyberSecurity**
+  - Network Protocols, e.g. HTTP(S), TLS/DTLS, Websockets, TCP/UDP, RTP
+  - Public Key Infrastructures (PKI), OpenSSL, SSH
+  - Threat Modeling: STRIDE, DREAD
 - **Databases** 
   - MySQL, PostgreSQL, DB2
 - **Other**
   - Point Cloud Processing, Laserscanner/Lidar
   - ASpice, ISO 26262 \(ASIL, FuSa\)
-  - Public Key Infrastructures, OpenSSL, SSH
-  - Network Protocols, e.g. HTTP, Websockets, TCP/UDP
   - General Web Knowledge, e.g. HTML, CSS
   - SOC Testing: V93000
   - Office: MS Office, Open Office
@@ -78,9 +80,10 @@ Topics: <br>
 [Valeo Schalter & Sensoren](https://www.valeo.com) _(03/2023 - 04/2024)_ <br>
 - Specification of the API’s and partitioning of the microservices
 - Responsible for architecture and design of the used SW tools and libraries
+- Responsible for building and operating a secure cloud backend taking existing cyber security best practices into account
 - Specification of the software interfaces
 - Creation and documentation of proof of concepts and reference implementations
-- Improvements of the development process based on agile and DevOps principles
+- Improvements of the development process based on agile and Dev(Sec)Ops principles
 - Architecture and maintenance of the docker based infrastructure
 - Design / Code reviews
 - UML-based system modeling
@@ -92,6 +95,7 @@ Topics: <br>
 - Definition and implementation of the external software interfaces
 - Creation and documentation of proof of concepts and component templates
 - Architecture and maintenance of the docker based infrastructure
+- Ensuring cyber security requirements
 - Design / Code reviews
 - UML-based system modeling
 - Improving the development process based on agile methodologies
@@ -140,6 +144,7 @@ Jogmo Project \(Realtime icehockey player tracking\)
 - Design/Implementation
 - Specification and Customization of OpenWRT for dedicated purpose
 - Specification of Integration Tests
+- Ensuring cyber security requirements
 - __Methods:__ OOA/OOD, Test driven Development
 - __Technologies & Tools:__ OpenWRT, Debian Wheezy, UML, ANSI C(gcc),  FTDI (libftdi), Websockets (libwebsockets), Protobuf (protobuf-c), Eclipse CDT
 
