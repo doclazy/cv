@@ -1,5 +1,5 @@
 ## Overview
-I started programming more than 25 years ago and i've been working as a professional software developer since 2008.
+I started programming more than 30 years ago and i've been working professionally in R&D and SW development based roles since 2008.
 
 **Current Roles** <br>
 System & Software Architect <br>
