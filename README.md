@@ -10,7 +10,7 @@ Valeo Academy Trainer for C++, TDD and Clean Code <br>
 Steinbach am Wald, Germany
 
 **Awards & Certificates ** 🏆 <br>
-- __2025/04__ ISAQB Certified Professional for Software Architecture / CPSA-F
+- __2025/04__ iSAQB® CPSA-F
 - __2025/01__ Nomination as SW Discipline Champion <br>
 - __2025/01__ Renewal of Valeo Expert Title <br>
 - __2022/01__ Renewal of Valeo Expert Title <br>
