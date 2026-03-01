@@ -2,7 +2,7 @@
 I started programming more than 30 years ago and i've been working professionally in R&D and SW development based roles since 2008.
 
 **Current Roles** <br>
-Teamlead Software
+Teamlead Software <br>
 System & Software Architect <br>
 Valeo Expert and Valeo Academy Trainer for C++, TDD and Clean Code <br>
 
